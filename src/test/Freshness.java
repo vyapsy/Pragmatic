@@ -20,6 +20,9 @@ System.out.println("CERT");
 
 System.out.println("PROD");
 System.out.println("UAT");
+
+System.out.println("Sum of ");
+
 	}
 
 }
