@@ -13,6 +13,13 @@ System.out.println("Ravi");
 
 System.out.println("RAAAAAAAAAAM");
 System.out.println("RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR");
+
+System.out.println("QA");
+System.out.println("CERT");
+
+
+System.out.println("PROD");
+System.out.println("UAT");
 	}
 
 }
